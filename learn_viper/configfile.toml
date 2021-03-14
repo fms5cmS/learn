@@ -1,0 +1,12 @@
+language = "Go"
+host = "localhost"
+port = 10086
+
+# 个人信息
+[person]
+name = "zzk"
+age = 17
+h = 170
+
+[family]
+address = "sx"

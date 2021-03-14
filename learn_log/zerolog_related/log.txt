@@ -1,0 +1,1 @@
+{"level":"debug","time":"2020-03-03T12:18:13+08:00","message":"this message will be writed in a file"}

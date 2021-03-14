@@ -1,0 +1,2 @@
+time="2020-03-03T10:18:35+08:00" level=info msg="Hello world" func=main.main file="E:/mod/src/interview/learn_log/logrus_related/main.go:21"
+time="2020-03-03T10:18:35+08:00" level=info msg="this is logger for common info" func=main.main file="E:/mod/src/interview/learn_log/logrus_related/main.go:25" common="this is a common filed"

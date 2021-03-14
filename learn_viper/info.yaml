@@ -1,0 +1,7 @@
+person:
+  name: Zack
+  age: 25
+  height: 185
+social:
+  wife: Aeris
+  know: [Cloud, セフィロス(萨菲罗斯), Tifa]
