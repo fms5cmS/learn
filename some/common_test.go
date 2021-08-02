@@ -1,7 +1,6 @@
 package some
 
 import (
-	"encoding/json"
 	"strconv"
 	"testing"
 	"time"
